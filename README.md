@@ -26,14 +26,12 @@ Technologies Used
 - Scikit-learn
 
 
+ Files Included
 
-📂 Files Included
-
-| File Name               Description                                |
-|------------------------ |--------------------------------------------|
-| `project.py`           | Main Python script with analysis & modeling |
-| `weather_data.csv`     | Sample dataset of weather records (2010–2024) |
-| `*.png` files          | Graphs saved as images automatically       |
+File Name                                              
+`project.py`            Main Python script with analysis & modeling 
+`weather_data.csv`      Sample dataset of weather records (2010–2024) 
+.png` files           Graphs saved as images automatically      
 
 ---
 
